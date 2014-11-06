@@ -21,6 +21,8 @@ public class Prueba_01 {
         GFGFGFGFDJHYJGHJGHJFGJ 
         */
         //CHICHO VER.............
+        
+        int a;
     }
     
 }
