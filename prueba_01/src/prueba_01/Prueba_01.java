@@ -20,13 +20,15 @@ public class Prueba_01 {
         /**
         GFGFGFGFDJHYJGHJGHJFGJ 
         */
-        //CHICHO VER.............
+        //CONTROLADOR DE VERSIONES
+        // SUMA DE DOS NUMEROS EN NETBEANS
         
         int a =8;
         int b= 12;
         int c;
         c= a+b;
         System.out.printf("Resultado:"+c);
+        
     }
     
 }
