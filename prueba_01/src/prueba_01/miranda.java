@@ -7,11 +7,8 @@ package prueba_01;
 
 /**
  *
- * @author CP14
+ * @author CP13
  */
-public class ZAMBRANO {
-    int a =8;
-        int b= 12;
-        
-        
+public class miranda {
+    
 }
