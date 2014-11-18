@@ -25,9 +25,11 @@ public class Prueba_01 {
         
         int a =8;
         int b= 12;
-        int c;
+        int c,r;
         c= a+b;
+        c= a-b;
         System.out.printf("Resultado:"+c);
+        System.out.printf("Resultado:"+r);
          System.out.println("MODIFICACION");
                  System.out.printf("Resultado:"+c);
 
