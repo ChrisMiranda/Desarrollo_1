@@ -31,7 +31,7 @@ public class Prueba_01 {
         System.out.printf("Resultado:"+c);
         System.out.printf("Resultado:"+r);
          System.out.println("MODIFICACION");
-         System.out.printf("RESULTADO SUMA:"+c);
+         System.out.printf("SUMA:"+c);
                  
 
     }
