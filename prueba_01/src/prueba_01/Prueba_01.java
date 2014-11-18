@@ -23,14 +23,14 @@ public class Prueba_01 {
         //CONTROLADOR DE VERSIONES
         // SUMA DE DOS NUMEROS EN NETBEANS
         
-        // HOLA
-        
         int a =8;
         int b= 12;
         int c;
         c= a+b;
         System.out.printf("Resultado:"+c);
          System.out.println("MODIFICACION");
+                 System.out.printf("Resultado:"+c);
+
     }
     
 }
